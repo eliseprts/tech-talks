@@ -1,6 +1,6 @@
 # TECH TALKS
 
-_Repo created as part of the [BeCode web development training](https://becode.org/fr/apprendre/developpeur-web-junior/)![image](https://user-images.githubusercontent.com/94377998/173375346-9a20b681-3453-41dd-a67c-7ef915f0011d.png)_
+_Repo created as part of the [BeCode web development training](https://becode.org/fr/apprendre/developpeur-web-junior/)_
 
 ## What's tech talks ?
  
