@@ -16,7 +16,7 @@ Possible subjects are tech news, programming languages, how to manage a server..
 
 ## My tech talks
 
-09/02/2022 : CSS • Une question de couleurs
+09/02/2022 : [CSS • Une question de couleurs](tech-talks-presentations/20220209_CSS_Couleurs.pdf)
 </br>
 16/03/2022 : What's CMS ?
 </br>
