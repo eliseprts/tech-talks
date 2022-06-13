@@ -17,8 +17,13 @@ Possible subjects are tech news, programming languages, how to manage a server..
 ## My tech talks
 
 09/02/2022 : CSS • Une question de couleurs
+</br>
 16/03/2022 : What's CMS ?
+</br>
 21/04/2022 : SEO
+</br>
 03/05/2022 : UX/UI Design
+</br>
 13/05/2022 : Un peu d'ergonomie...
+</br>
 25/05/2022 : Atomic Design
