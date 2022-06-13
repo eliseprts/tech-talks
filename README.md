@@ -18,12 +18,12 @@ Possible subjects are tech news, programming languages, how to manage a server..
 
 09/02/2022 : [CSS • Une question de couleurs](tech-talks-presentations/20220209_CSS_Couleurs.pdf)
 </br>
-16/03/2022 : What's CMS ?
+16/03/2022 : [What's CMS ?](tech-talks-presentations/20220316_CMS.pdf)
 </br>
-21/04/2022 : SEO
+21/04/2022 : [SEO](tech-talks-presentations/20220421_SEO.pdf)
 </br>
-03/05/2022 : UX/UI Design
+03/05/2022 : [UX/UI Design](tech-talks-presentations/20220503_UXUIDesign.pdf)
 </br>
-13/05/2022 : Un peu d'ergonomie...
+13/05/2022 : [Un peu d'ergonomie...](tech-talks-presentations/20220513_Ergonomie.pdf)
 </br>
-25/05/2022 : Atomic Design
+25/05/2022 : [Atomic Design](tech-talks-presentations/20220525_AtomicDesign.pdf)
